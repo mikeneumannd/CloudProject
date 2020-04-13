@@ -1,13 +1,13 @@
 # CloudProject
 
 GUI Walkthrough
-https://www.youtube.com/watch?v=zKRHes-MZYg
+https://www.youtube.com/watch?v=xo8LU-ufnyk
 
 GUI, Search, and TopN Demo
-https://www.youtube.com/watch?v=_GxvxyyYZPo
+https://www.youtube.com/watch?v=QDvJuutM8c4
 
 InvertedIndex (Named WordCount) Walkthrough 
-https://www.youtube.com/watch?v=JrE5_fKdvSw
+https://www.youtube.com/watch?v=nWKbZDfkJ6U
 
 JobDemo
 https://www.youtube.com/watch?v=8IQnEhsNuYQ
