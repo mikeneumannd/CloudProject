@@ -1,5 +1,7 @@
 # CloudProject
 
+Note: two of the below videos became kind of blurry for some reason
+
 GUI Walkthrough
 https://www.youtube.com/watch?v=xo8LU-ufnyk
 
